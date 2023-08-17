@@ -8,7 +8,7 @@
     width: 350px;
     border: 5px solid black;
     border-top: 2px solid black;
-    background-image: url("kitty.jpg");
+    background-image: url("pee.jpg");
     box-shadow: 0 0 20px black;
     border-radius: 10px;
 }
@@ -16,7 +16,7 @@
 .kitty {
     height: 120px;
     width: 350px;
-    background-image: url("kittens.jpg");
+    background-image: url("pe.jpg");
     background-size: cover;
     transition: background 0.6s;
 }
@@ -26,7 +26,7 @@
     height: 70px;
     width: 330px;
     margin: 0.5rem;
-    background-image: url("kitten.png");
+    background-image: url("peeee.png");
     background-size: contain;
     border: 2px solid black;
     border-radius: 10px;
